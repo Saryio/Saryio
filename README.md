@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Antony 🌎     <img align=right src="https://gpvc.arturio.dev/Saryio"/> 
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saryio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=false" alt="Saryio Github stats" width="500" align="right">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saryio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" alt="Saryio Github stats" width="500" align="right">
 
 ## ~$ whoami
 
