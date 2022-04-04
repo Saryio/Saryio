@@ -1,7 +1,7 @@
 <img style = "margin-top: 40px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 ##### ~$ whoami
-## Hello 👋, I'm Antony 🌎     
+## Hello 👋, I'm Antony from **Web3** 🌐    
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-antony-001)](https://www.linkedin.com/in/samuel-antony-001/)
 
